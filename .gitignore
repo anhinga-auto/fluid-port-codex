@@ -1,0 +1,10 @@
+# Ignore binary image assets added during local experimentation
+web/*.jpg
+web/*.jpeg
+web/*.png
+web/*.JPG
+web/*.JPEG
+web/*.PNG
+
+# Ignore Playwright artifacts
+artifacts/
